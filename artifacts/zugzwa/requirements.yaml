@@ -1,0 +1,10 @@
+packages:
+  "framer-motion": "For smooth scroll-triggered animations and page transitions"
+  "lucide-react": "For high-quality SVG icons in the features section"
+  "@hookform/resolvers": "For Zod validation in the contact form"
+  "zod": "Schema validation for the contact form"
+
+notes:
+  - This is a pure static marketing landing page.
+  - The "Start a Project" buttons open a contact modal that simulates a submission and shows a toast.
+  - No external backend API calls are strictly required for rendering the page.

@@ -1,8 +1,0 @@
-uploads = []
-generated = []
-
-[[outputs]]
-id = "UARsr64jPFh7vNaHRRMZk"
-uri = "file://zugzwa-website.tar.gz"
-type = "unspecified"
-title = "Zugzwa Website Source"
